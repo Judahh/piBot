@@ -1,0 +1,8 @@
+[submodule "backApp"]
+	path = backApp
+	url = http://github.com/judahh/backApp.git
+	branch = master
+[submodule "backApi"]
+	path = backApi
+	url = http://github.com/judahh/backApi.git
+	branch = master
