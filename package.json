@@ -30,30 +30,6 @@
     "gulp": "gulp"
   },
   "dependencies": {
-    "@types/body-parser": "1.16.3",
-    "@types/mongodb": "^2.2.6",
-    "@types/mongoose": "^4.7.18",
-    "@types/morgan": "^1.7.32",
-    "@types/node": "^8.0.1",
-    "@types/request": "^0.0.44",
-    "async": "^2.5.0",
-    "body-parser": "^1.17.2",
-    "compression": "^1.6.2",
-    "concurrently": "^3.4.0",
-    "dotenv": "^4.0.0",
-    "express": "4.15.3",
-    "is-online": "^7.0.0",
-    "mongodb": "^2.2.29",
-    "mongoose": "^4.10.8",
-    "morgan": "^1.8.2",
-    "node-local-tunnel": "^0.1.8",
-    "node-webhooks": "^1.1.32",
-    "ntypescript": "^1.201706190042.1",
-    "path": "0.12.7",
-    "q": "^1.5.0",
-    "request": "^2.81.0",
-    "typescript": "2.3.4",
-    "underscore": "^1.8.3"
   },
   "devDependencies": {}
 }

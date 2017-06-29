@@ -19,6 +19,9 @@
   },
   "exclude": [ 
     "node_modules",
-    "app"
+    "api",
+    "app",
+    "backApp",
+    "backApi"
   ]
 }
