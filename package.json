@@ -18,8 +18,7 @@
   "angular-cli": {},
   "scripts": {
     "start": "sudo ./fullStart.sh",
-    "test": "ng test",
-    "prestart": "sudo ./fullInstall.sh"
+    "test": "ng test"
   },
   "dependencies": {},
   "devDependencies": {}
