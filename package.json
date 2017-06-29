@@ -18,16 +18,8 @@
   "angular-cli": {},
   "scripts": {
     "start": "sudo ./fullStart.sh",
-    "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
-    "prestart": "sudo npm install nodemon -g && sudo npm install",
-    "pree2e": "webdriver-manager update",
-    "e2e": "protractor",
-    "tsc": "tsc",
-    "tsc:w": "tsc -w",
-    "build": "gulp build",
-    "clean": "shx rm -Rf build/",
-    "gulp": "gulp"
+    "prestart": "sudo ./fullInstall.sh"
   },
   "dependencies": {},
   "devDependencies": {}

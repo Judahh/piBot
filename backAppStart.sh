@@ -1,4 +1,4 @@
-file="backApp/tsconfig.json"
+file="backApp/package.json"
 if [ -f "$file" ]
 then
 	tsc --p backApp/tsconfig.json
