@@ -1,7 +1,7 @@
 file="backApi/package.json"
 if [ -f "$file" ]
 then
-	tsc --p backApi/tsconfig.json
+	(cd /backApi;sudo npm start)
 else
 	echo "$file not found."
 fi
