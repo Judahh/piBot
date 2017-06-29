@@ -29,7 +29,6 @@
     "clean": "shx rm -Rf build/",
     "gulp": "gulp"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
