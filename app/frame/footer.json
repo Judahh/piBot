@@ -1,0 +1,42 @@
+{
+    "element": {
+        "style": {
+            "background-color":"rgba(255, 255, 255, 0.1)"
+        }
+    },
+    "menuHorizontal": {
+        "arrayItem": [
+            {
+                "element": {
+                    "style": {}
+                },
+                "routerLink": "home",
+                "colorEffect": {
+                    "element": {
+                        "style": {}
+                    },
+                    "colorEffect": "test",
+                    "font": {
+                        "element": {
+                            "style": {
+                                "font": "test"
+                            }
+                        },
+                        "animationEffect": {
+                            "animationSubEffect": {
+                                "arrayAnimationSubEffectHolder": [
+                                    {
+                                        "information":{
+                                            "information": "title",
+                                            "link": "link0"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

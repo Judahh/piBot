@@ -1,0 +1,313 @@
+{
+    "arrayDivisorBlock": [
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "padding": [5]
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "item": {
+                            "colorEffect": {
+                                "element": {
+                                    "style":{
+                                        "display": "block",
+                                        "text-align": "center",
+                                        "color": "white"
+                                    }
+                                },
+                                "font": {
+                                    "element": {
+                                        "className": "ClassFuturisticIAndII",
+                                        "style":{
+                                            "textAlign": "center",
+                                            "width": "100%",
+                                            "font-size": "40px",
+                                            "padding": [0]
+                                        }
+                                    },
+                                    "animationEffect": {
+                                        "animationSubEffect": {
+                                            "arrayAnimationSubEffectHolder": [
+                                                {
+                                                    "information":{
+                                                        "information": "title",
+                                                        "element": {
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "padding": [5]
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "item": {
+                            "colorEffect": {
+                                "element": {
+                                    "style":{
+                                        "color": "white"
+                                    }
+                                },
+                                "font": {
+                                    "element": {
+                                        "className": "ClassFuturisticIAndII",
+                                        "style":{
+                                            "textAlign": "center",
+                                            "width": "100%",
+                                            "font-size": 40,
+                                            "padding": [0]
+                                        }
+                                    },
+                                    "animationEffect": {
+                                        "animationSubEffect": {
+                                            "arrayAnimationSubEffectHolder": [
+                                                {
+                                                    "information":{
+                                                        "information": "name",
+                                                        "element": {
+                                                            "href": "B"
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "display": "block",
+                        "color": "transparent",
+                        "padding": []
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "element": {
+                            "style":{
+                                "float": "left",
+                                "width": "18%",
+                                "arrayPadding": [15]
+                            }
+                        },
+                        "image": {
+                            "element": {
+                                "style":{
+                                    "boxSizing": "border-box",
+                                    "borderfont-size": "1",
+                                    "borderRadius": "1000",
+                                    "color": "white",
+                                    "position": "relative"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "item": {
+                            "colorEffect": {
+                                "element": {
+                                    "style":{
+                                        "color": "white"
+                                    }
+                                },
+                                "font": {
+                                    "element": {
+                                        "className": "ClassOpenSans",
+                                        "style":{
+                                            "textAlign": "justify",
+                                            "textIndent": "2.5em",
+                                            "width": "100%",
+                                            "font-size": 20,
+                                            "arrayPadding": []
+                                        }
+                                    },
+                                    "animationEffect": {
+                                        "animationSubEffect": {
+                                            "arrayAnimationSubEffectHolder": [
+                                                {
+                                                    "information":{
+                                                        "information": "personalStatementTitle",
+                                                        "element": {
+                                                            "href": "C"
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "arrayPadding": [5]
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "toBottom": false,
+                        "item": {
+                            "colorEffect": {
+                                "element": {
+                                    "style":{
+                                        "color": "white"
+                                    }
+                                },
+                                "font": {
+                                    "element": {
+                                        "className": "ClassFuturisticIAndII",
+                                        "style":{
+                                            "textAlign": "center",
+                                            "width": "100%",
+                                            "font-size": 40,
+                                            "arrayPadding": []
+                                        }
+                                    },
+                                    "animationEffect": {
+                                        "animationSubEffect": {
+                                            "arrayAnimationSubEffectHolder": [
+                                                {
+                                                    "information":{
+                                                        "information": "personalStatementBeforeAge",
+                                                        "element": {
+                                                            "href": "D"
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "arrayPadding": []
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "element": {
+                            "style":{
+                                "width": "100%"
+                            }
+                        },
+                        "videoLink": {
+                            "element": {
+                                "style":{
+                                    "boxSizing": "border-box",
+                                    "borderfont-size": "0",
+                                    "borderRadius": "0",
+                                    "color": "black",
+                                    "height": 315,
+                                    "width": 420
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "display": "block",
+                        "color": "transparent",
+                        "arrayPadding": []
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "item": {
+                            "colorEffect": {
+                                "element": {
+                                    "style":{
+                                        "color": "white"
+                                    }
+                                },
+                                "font": {
+                                    "element": {
+                                        "className": "ClassOpenSans",
+                                        "style":{
+                                            "textAlign": "justify",
+                                            "textIndent": "2.5em",
+                                            "width": "100%",
+                                            "font-size": 20,
+                                            "arrayPadding": []
+                                        }
+                                    },
+                                    "animationEffect": {
+                                        "animationSubEffect": {
+                                            "arrayAnimationSubEffectHolder": [
+                                                {
+                                                    "information":{
+                                                        "information": "personalStatementAfterAge",
+                                                        "element": {
+                                                            "href": "E"
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

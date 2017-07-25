@@ -1,0 +1,581 @@
+{
+    "background": {
+        "image": {
+            "element": {
+                "style": {
+                    "opacity": 1,
+                    "visibility": "visible",
+                    "position": "fixed",
+                    "filter": "brightness(70%) grayscale(0%) blur(5px)",
+                    "zIndex": -1000,
+                    "max-width": "inherit",
+                    "max-height": "inherit",
+                    "width": "100%",
+                    "height": "100%"
+                }
+            },
+            "img": {
+                "element": {
+                    "style": {
+                        "width": "100%",
+                        "height": "100%"
+                    },
+                    "src": "app/view/images/programming.jpg"
+                }
+            }
+        }
+    },
+    "arrayDivisorBlock": [
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "padding": [5]
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "arrayItem": [
+                            {
+                                "element": {
+                                    "style":{
+                                        "color": "white",
+                                        "display": "block",
+                                        "padding": "5px",
+                                        "textAlign": "center"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassFuturisticIAndII",
+                                            "style":{
+                                                "width": "100%",
+                                                "font-size": "40px",
+                                                "padding": [0]
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "title",
+                                                            "element": {
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "padding": [5]
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "arrayItem": [
+                            {
+                                "element": {
+                                    "style":{
+                                        "color": "white",
+                                        "display": "block",
+                                        "textAlign": "center"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassFuturisticIAndII",
+                                            "style":{
+                                                "width": "100%",
+                                                "font-size": "20px",
+                                                "padding": [0]
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "name",
+                                                            "element": {
+                                                                "href": "B"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "display": "block",
+                        "color": "transparent",
+                        "padding": []
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "element": {
+                            "style":{
+                                "float": "left",
+                                "width": "18%",
+                                "arrayPadding": [15]
+                            }
+                        },
+                        "image": {
+                            "element": {
+                                "style":{
+                                    "visibility": "visible",
+                                    "boxSizing": "border-box",
+                                    "border": "1",
+                                    "borderRadius": "1000",
+                                    "float": "left",
+                                    "padding": "15px",
+                                    "color": "white",
+                                    "width": "100%",
+                                    "height": "inherit",
+                                    "max-width": "inherit",
+                                    "max-height": "inherit",
+                                    "position": "relative"
+                                }
+                            },
+                            "img": {
+                                "element": {
+                                    "style": {
+                                        "box-sizing": "border-box",
+                                        "border": "1px solid white",
+                                        "border-radius": "1000px",
+                                        "position": "relative",
+                                        "top": "0",
+                                        "width": "100%",
+                                        "height": "auto"
+                                    },
+                                    "src": "app/view/images/programming.jpg"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "arrayItem": [
+                            {
+                                "element": {
+                                    "style":{
+                                        "textAlign": "justify",
+                                        "float": "left"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassOpenSans",
+                                            "style":{
+                                                "textIndent": "2.5em",
+                                                "font-size": "16px",
+                                                "arrayPadding": []
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "personalStatementBeforeAge",
+                                                            "element": {
+                                                                "href": "C"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "element": {
+                                    "style":{
+                                        "textAlign": "justify"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassOpenSans",
+                                            "style":{
+                                                "font-size": "16px",
+                                                "arrayPadding": []
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "personalStatementAfterAge",
+                                                            "element": {
+                                                                "href": "C"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "element": {
+                                    "style":{
+                                        "textAlign": "justify"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassOpenSans",
+                                            "style":{
+                                                "textIndent": "2.5em",
+                                                "font-size": "16px",
+                                                "arrayPadding": []
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "personalStatement2",
+                                                            "element": {
+                                                                "href": "C"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "element": {
+                                    "style":{
+                                        "textAlign": "justify"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassOpenSans",
+                                            "style":{
+                                                "textIndent": "2.5em",
+                                                "font-size": "16px",
+                                                "arrayPadding": []
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "talkingAboutMe",
+                                                            "element": {
+                                                                "href": "C"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "element": {
+                                    "style":{
+                                        "textAlign": "justify"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassOpenSans",
+                                            "style":{
+                                                "textIndent": "2.5em",
+                                                "font-size": "16px",
+                                                "arrayPadding": []
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "talkingAboutMe2",
+                                                            "element": {
+                                                                "href": "C"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "arrayPadding": [5]
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "toBottom": false,
+                        "arrayItem": [
+                            {
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassFuturisticIAndII",
+                                            "style":{
+                                                "textAlign": "center",
+                                                "width": "100%",
+                                                "font-size": "20px",
+                                                "arrayPadding": []
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "thinkDifferentTitle",
+                                                            "element": {
+                                                                "href": "D"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "arrayPadding": []
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "element": {
+                            "style":{
+                                "width": "100%"
+                            }
+                        },
+                        "videoLink": {
+                            "element": {
+                                "style":{
+                                    "boxSizing": "border-box",
+                                    "border": "0",
+                                    "borderRadius": "0",
+                                    "color": "black",
+                                    "height": 315,
+                                    "width": 420
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "display": "block",
+                        "color": "transparent",
+                        "arrayPadding": []
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "arrayItem": [
+                            {
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassOpenSans",
+                                            "style":{
+                                                "textAlign": "justify",
+                                                "textIndent": "2.5em",
+                                                "width": "100%",
+                                                "font-size": "16px",
+                                                "arrayPadding": []
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "personalStatementAfterAge",
+                                                            "element": {
+                                                                "href": "E"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
