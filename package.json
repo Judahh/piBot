@@ -1,6 +1,6 @@
 {
-  "name": "backAppFramework",
-  "productName": "appFramework",
+  "name": "piBot",
+  "productName": "piBot",
   "author": "Judah <judahholanda7@gmail.com>",
   "version": "0.1.0",
   "private": true,
