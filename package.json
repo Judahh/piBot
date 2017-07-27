@@ -18,8 +18,15 @@
   "angular-cli": {},
   "scripts": {
     "start": "sudo ./fullStart.sh",
-    "test": "ng test"
+    "lint": "tslint \"src/**/*.ts\"",
+    "test": "ng test",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "clean": "shx rm -Rf build/",
+    "gulp": "gulp"
   },
-  "dependencies": {},
+  "dependencies": {
+    "concurrently": "^3.5.0"
+  },
   "devDependencies": {}
 }
