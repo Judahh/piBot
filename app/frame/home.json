@@ -254,6 +254,51 @@
                             {
                                 "element": {
                                     "style":{
+                                        "textAlign": "justify",
+                                        "float": "left"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassOpenSans",
+                                            "style":{
+                                                "textIndent": "2.5em",
+                                                "font-size": "16px",
+                                                "arrayPadding": []
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "age",
+                                                            "code": true,
+                                                            "element": {
+                                                                "href": "C"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "element": {
+                                    "style":{
                                         "textAlign": "justify"
                                     }
                                 },

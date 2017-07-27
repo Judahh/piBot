@@ -13,7 +13,33 @@
         "thinkDifferent":"\"Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.\" - Apple Inc."
     },
     {
+        "language":"en",
+        "title":"404",
+        "name":"qwe",
+        "personalStatementTitle":"PERSONAL STATEMENT",
+        "personalStatementBeforeAge":"I'm a ",
+        "personalStatementAfterAge":" years old Computer Engineer from Fortaleza (Brazil). I love everything that has to do with Computers so that means, Programming, Gamming, Designing and etc.",
+        "personalStatement2":"I have 1.5 years of experience working as a mobile/web developer and some more working on projects including firmware, hardware and even physics, but now I'm ready for visiting other countries and work anywhere! I love working with people, especially if they have the same passion I have for what they do.",
+        "talkingAboutMe":"If I could be described in one word it would be: \"ORIGINAL\". I'm different in the way of behave and especially in thinking. I imagine that I am in this world to show a new perspective and a new way to make it happen, to see beyond the obvious and trivial, increase possibilities, maximize performance in any area. I do not like to do anything poorly developed and if necessary I redo everything from the beginning, broadly as possible in order to address all cases and in the most efficient way.",
+        "talkingAboutMe2":"I prefer to participate in a large and impossible project where I can show what I can do, innovating and participating actively than in a simple design that does not require any skill or creativity. After all one of the main qualities of IT is its constant evolution and revolution. The decisive reason why I chose this area is mainly due to the possibility of renewal and intellectual growth. I can even be considered just a dreamer or lunatic but as Steve Jobs said: The people who are crazy enough to think they can change the world, are the ones who do.",
+        "thinkDifferentTitle":"“Think Different” – Steve Jobs (1955-2011)",
+        "thinkDifferent":"\"Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.\" - Apple Inc."
+    },
+    {
         "language":"pt-BR",
+        "title":"404",
+        "name":"qwe",
+        "personalStatementTitle":"DECLARAÇÃO PESSOAL",
+        "personalStatementBeforeAge":"Sou um Engenheiro de Computação de ",
+        "personalStatementAfterAge":" anos de Fortaleza (Brasil). E amo tudo que tem relação com computadores e tecnologia, isto significa que amo: Programação, Jogos, Designing and etc.",
+        "personalStatement2":"Tenho 1,5 anos de experiência trabalhando como mobile/web developer e alguns mais trabalhando em  projetos incluindo firmware, hardware e até física, mas agora estou pronto para visitar outros países e trabalhar em qualquer lugar! Amo trabalhar em equipe, especialmente se os integrantes compartilham o mesmo entusiasmo que eu no que fazem.",
+        "talkingAboutMe":"Se pudesse ser descrito em uma palavra seria: \"ORIGINAL\". Sou diferente na forma de agir e principalmente na maneira de pensar. Imagino que estou neste mundo para mostrar uma perspectiva nova de agir e fazer  acontecer, ver além do óbvio e do trivial, aumentar possibilidades, maximizar o desempenho em qualquer área. Não gosto de fazer nada mal elaborado  e caso seja necessário refaço tudo desde o inicio, de forma mais abrangente possível, de modo que aborde todos os casos e de maneira mais eficaz.",
+        "talkingAboutMe2":"Prefiro estar em um projeto grande e impossível, onde possa mostrar do que sou capaz, inovando e participando ativamente, a estar em um projeto simples que não demande nenhuma habilidade ou criatividade. Afinal uma das principais qualidades da TI é sua constante evolução e revolução. O motivo decisivo pelo qual  escolhi essa área é principalmente pela possibilidade de renovação e crescimento intelectual. Posso até ser considerado apenas um sonhador ou lunático, mas como disse Steve Jobs: “As pessoas que são loucas o suficiente para achar que podem mudar o mundo, são as que de fato, o fazem”.",
+        "thinkDifferentTitle":"“Think Different” – Steve Jobs (1955-2011)",
+        "thinkDifferent":"\"Isto é para os loucos. Os desajustados. Os rebeldes. Os criadores de caso. As peças redondas nos buracos quadrados. Os que vêem as coisas de forma diferente. Eles não gostam de regras. E eles não têm nenhum respeito pelo status quo. Você pode citá-los, discordá-los, glorificá-los ou difamá-los. Mas a única coisa que você não pode fazer é ignorá-los. Porque eles mudam as coisas. Eles empurram a raça humana para frente. Enquanto alguns os vêem como loucos, nós vemos gênios. Porque as pessoas que são loucas o suficiente para achar que podem mudar o mundo, são as que de fato, o fazem.\" - Apple Inc."
+    },
+    {
+        "language":"pt",
         "title":"404",
         "name":"qwe",
         "personalStatementTitle":"DECLARAÇÃO PESSOAL",
