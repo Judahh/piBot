@@ -1,4 +1,4 @@
-class Age extends Component implements AppClass {
+class Age extends Component implements AppObject {
     constructor(father?: Component){
         super(father);
     }
