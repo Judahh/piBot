@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "piBot",
+    "version": "1",
+    "icons": {
+      "16": "favicon.png"
+    },
+    "permissions": [ "<all_urls>", "storage" ,"*://*/*" ],
+    "app": {
+      "background": {
+        "scripts": ["backApp/chrome/chrome.js"]
+      }
+    },
+    "minimum_chrome_version": "28"
+  }
