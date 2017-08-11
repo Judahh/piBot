@@ -268,7 +268,6 @@
                                         "element": {
                                             "className": "ClassOpenSans",
                                             "style":{
-                                                "textIndent": "2.5em",
                                                 "font-size": "16px",
                                                 "arrayPadding": []
                                             }
