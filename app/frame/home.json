@@ -283,7 +283,8 @@
                                                 "arrayAnimationSubEffectHolder": [
                                                     {
                                                         "information":{
-                                                            "information": "age",
+                                                            "information": "Age",
+                                                            "age": {},
                                                             "code": true,
                                                             "element": {
                                                                 "href": "C"
