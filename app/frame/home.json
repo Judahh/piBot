@@ -200,7 +200,7 @@
                                         "width": "100%",
                                         "height": "auto"
                                     },
-                                    "src": "app/view/images/programming.jpg"
+                                    "src": "https://graph.facebook.com/100002241941537/picture?type=large"
                                 }
                             }
                         }
@@ -547,15 +547,26 @@
                                 "width": "100%"
                             }
                         },
-                        "videoLink": {
+                        "videoHolder": {
                             "element": {
                                 "style":{
+                                    "visibility": "visible",
+                                    "display": "block",
                                     "boxSizing": "border-box",
                                     "border": "0",
                                     "borderRadius": "0",
                                     "color": "black",
                                     "height": 315,
                                     "width": 420
+                                }
+                            },
+                            "iframe":{
+                                "element": {
+                                    "src":"https://www.youtube.com/embed/8rwsuXHA7RA",
+                                    "style":{
+                                        "border": "0",
+                                        "borderRadius": "0"
+                                    }
                                 }
                             }
                         }
@@ -605,7 +616,7 @@
                                                 "arrayAnimationSubEffectHolder": [
                                                     {
                                                         "information":{
-                                                            "information": "personalStatementAfterAge",
+                                                            "information": "thinkDifferent",
                                                             "element": {
                                                                 "href": "E"
                                                             }
