@@ -1,0 +1,198 @@
+{
+    "background": {
+        "image": {
+            "element": {
+                "style": {
+                    "opacity": 1,
+                    "visibility": "visible",
+                    "position": "fixed",
+                    "filter": "brightness(70%) grayscale(0%) blur(5px)",
+                    "zIndex": -1000,
+                    "max-width": "inherit",
+                    "max-height": "inherit",
+                    "width": "100%",
+                    "height": "100%"
+                }
+            },
+            "img": {
+                "element": {
+                    "style": {
+                        "width": "100%",
+                        "height": "100%"
+                    },
+                    "src": "app/view/images/programming.jpg"
+                }
+            }
+        }
+    },
+    "arrayDivisorBlock": [
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "padding": [5]
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "arrayItem": [
+                            {
+                                "element": {
+                                    "style":{
+                                        "color": "white",
+                                        "display": "block",
+                                        "padding": "5px",
+                                        "textAlign": "center"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassFuturisticIAndII",
+                                            "style":{
+                                                "width": "100%",
+                                                "font-size": "40px",
+                                                "padding": [0]
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "element": {
+                                                "style":{
+                                                    "display": "block"
+                                                }
+                                            },
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "title",
+                                                            "element": {
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "arraySubDivisor": [],
+            "divisor": {
+                "element": {
+                    "style":{
+                        "opacity": 1,
+                        "color": "transparent",
+                        "padding": [5]
+                    }
+                },
+                "arraySubDivisor": [
+                    {
+                        "arrayItem": [
+                            {
+                                "element": {
+                                    "style":{
+                                        "color": "white",
+                                        "display": "block",
+                                        "textAlign": "left"
+                                    }
+                                },
+                                "colorEffect": {
+                                    "element": {
+                                        "style":{
+                                            "color": "white",
+                                            "padding": "5px"
+                                        }
+                                    },
+                                    "font": {
+                                        "element": {
+                                            "className": "ClassOpenSans",
+                                            "style":{
+                                                "width": "100%"
+                                                
+                                            }
+                                        },
+                                        "animationEffect": {
+                                            "animationSubEffect": {
+                                                "arrayAnimationSubEffectHolder": [
+                                                    {
+                                                        "information":{
+                                                            "information": "- https://github.com/Judahh",
+                                                            "element": {
+                                                                "href": "https://github.com/Judahh",
+                                                                "style":{
+                                                                    "display": "block"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "information":{
+                                                            "information": "- http://judahh.com/",
+                                                            "element": {
+                                                                "href": "http://judahh.com/",
+                                                                "style":{
+                                                                    "display": "block"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "information":{
+                                                            "information": "- http://judahh.com/Projects/Hutch/",
+                                                            "element": {
+                                                                "href": "http://judahh.com/Projects/Hutch/",
+                                                                "style":{
+                                                                    "display": "block"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "information":{
+                                                            "information": "- http://judahh.com/Projects/Easembly/",
+                                                            "element": {
+                                                                "href": "http://judahh.com/Projects/Easembly/",
+                                                                "style":{
+                                                                    "display": "block"
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    {
+                                                        "information":{
+                                                            "information": "- http://embarcadosunifor.blogspot.de/",
+                                                            "element": {
+                                                                "href": "http://embarcadosunifor.blogspot.de/",
+                                                                "style":{
+                                                                    "display": "block"
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

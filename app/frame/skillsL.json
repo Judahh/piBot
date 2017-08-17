@@ -1,0 +1,198 @@
+[
+    {
+        "language":"en",
+        "title":"Skills",
+        "intelligenceTitle":"Intelligence",
+        "intelligenceText":[
+            "- Creative",
+            "- Intuitive",
+            "- Perceptive",
+            "- Hyperfocus",
+            "- Quick Thinking",
+            "- Short Learning Curve"
+        ],
+        "teamworkTitle":"Teamwork",
+        "teamworkText":[
+            "- Involved",
+            "- Organized",
+            "- Determined",
+            "- Compromised",
+            "- Proactive"
+        ],
+        "leadershipTitle":"Leadership",
+        "leadershipText":[
+            "- Decided",
+            "- Inspiring",
+            "- Motivator",
+            "- Strong Conviction",
+            "- Ability to Delegate Roles and Tasks"
+        ],
+        "languagesCommunicationTitle":"languages/Communication",
+        "languagesCommunicationText":[
+            "- Friendly",
+            "- Pleasant",
+            "- Dynamic",
+            "- Consistent",
+            "- Enthusiastic",
+            "- Sense of Humor",
+            "- Interested in Feedback"
+        ],
+        "flexibilityTitle":"Flexibility",
+        "flexibilityText":[
+            "- Talent to Learn",
+            "- Open Minded",
+            "- Open to Changes",
+            "- Adaptability",
+            "- Quick Adaptation",
+            "- Possibility of Working Abroad",
+            "- Possibility to Learn New Languages"
+        ]
+    },
+    {
+        "language":"en-US",
+        "title":"Skills",
+        "intelligenceTitle":"Intelligence",
+        "intelligenceText":[
+            "- Creative",
+            "- Intuitive",
+            "- Perceptive",
+            "- Hyperfocus",
+            "- Quick Thinking",
+            "- Short Learning Curve"
+        ],
+        "teamworkTitle":"Teamwork",
+        "teamworkText":[
+            "- Involved",
+            "- Organized",
+            "- Determined",
+            "- Compromised",
+            "- Proactive"
+        ],
+        "leadershipTitle":"Leadership",
+        "leadershipText":[
+            "- Decided",
+            "- Inspiring",
+            "- Motivator",
+            "- Strong Conviction",
+            "- Ability to Delegate Roles and Tasks"
+        ],
+        "languagesCommunicationTitle":"languages/Communication",
+        "languagesCommunicationText":[
+            "- Friendly",
+            "- Pleasant",
+            "- Dynamic",
+            "- Consistent",
+            "- Enthusiastic",
+            "- Sense of Humor",
+            "- Interested in Feedback"
+        ],
+        "flexibilityTitle":"Flexibility",
+        "flexibilityText":[
+            "- Talent to Learn",
+            "- Open Minded",
+            "- Open to Changes",
+            "- Adaptability",
+            "- Quick Adaptation",
+            "- Possibility of Working Abroad",
+            "- Possibility to Learn New Languages"
+        ]
+    },
+    {
+        "language":"pt",
+        "title":"Habilidades",
+        "intelligenceTitle":"Inteligência",
+        "intelligenceText":[
+            "- Criativo",
+            "- Intuitivo",
+            "- Perceptivo",
+            "- Hiperfoco",
+            "- Raciocínio Rápido",
+            "- Curta Curva de Aprendizagem"
+        ],
+        "teamworkTitle":"Teamwork",
+        "teamworkText":[
+            "- Proativo",
+            "- Envolvido",
+            "- Organizado",
+            "- Determinado",
+            "- Comprometido"
+        ],
+        "leadershipTitle":"Leadership",
+        "leadershipText":[
+            "- Decidido",
+            "- Motivador",
+            "- Inspirador",
+            "- Forte Convicção",
+            "- Habilidade para Delegar Funções e Tarefas"
+        ],
+        "languagesCommunicationTitle":"languages/Communication",
+        "languagesCommunicationText":[
+            "- Amigável",
+            "- Agradável",
+            "- Dinâmico",
+            "- Consistente",
+            "- Entusiasmado",
+            "- Senso de Humor",
+            "- Interessado em Feedback"
+        ],
+        "flexibilityTitle":"Flexibility",
+        "flexibilityText":[
+            "- Talento Para Aprender",
+            "- Mente Aberta",
+            "- Aberto a Mudanças",
+            "- Adaptável a Mudanças",
+            "- Rápida Adaptação",
+            "- Possibilidade em Trabalhar no Exterior",
+            "- Possibilidade de Aprender Novos Idiomas"
+        ]
+    },
+    {
+        "language":"pt-BR",
+        "title":"Habilidades",
+        "intelligenceTitle":"Inteligência",
+        "intelligenceText":[
+            "- Criativo",
+            "- Intuitivo",
+            "- Perceptivo",
+            "- Hiperfoco",
+            "- Raciocínio Rápido",
+            "- Curta Curva de Aprendizagem"
+        ],
+        "teamworkTitle":"Teamwork",
+        "teamworkText":[
+            "- Proativo",
+            "- Envolvido",
+            "- Organizado",
+            "- Determinado",
+            "- Comprometido"
+        ],
+        "leadershipTitle":"Leadership",
+        "leadershipText":[
+            "- Decidido",
+            "- Motivador",
+            "- Inspirador",
+            "- Forte Convicção",
+            "- Habilidade para Delegar Funções e Tarefas"
+        ],
+        "languagesCommunicationTitle":"languages/Communication",
+        "languagesCommunicationText":[
+            "- Amigável",
+            "- Agradável",
+            "- Dinâmico",
+            "- Consistente",
+            "- Entusiasmado",
+            "- Senso de Humor",
+            "- Interessado em Feedback"
+        ],
+        "flexibilityTitle":"Flexibility",
+        "flexibilityText":[
+            "- Talento Para Aprender",
+            "- Mente Aberta",
+            "- Aberto a Mudanças",
+            "- Adaptável a Mudanças",
+            "- Rápida Adaptação",
+            "- Possibilidade em Trabalhar no Exterior",
+            "- Possibilidade de Aprender Novos Idiomas"
+        ]
+    }
+]
