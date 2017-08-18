@@ -22,7 +22,7 @@
   "angular-cli": {},
   "scripts": {
     "prestart": "./clone.sh",
-    "start": "./fullStart.sh && concurrently \"ntsc -w\"",
+    "start": "ntsc && ./fullStart.sh && concurrently \"ntsc -w\"",
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
     "ntsc": "ntsc",
