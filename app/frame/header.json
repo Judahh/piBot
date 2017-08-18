@@ -5,251 +5,298 @@
         }
     },
     "menuHorizontal": {
-        "arrayItem": [
-            {
-                "element": {
-                    "style": {
-                        "padding":"5px",
-                        "color":"white",
-                        "font-size": "40px"
-                    }
-                },
-                "routerLink": "home",
-                "colorEffect": {
+        "leftHolder": {
+            "arrayItem": [
+                {
                     "element": {
-                        "className": "ClassNeon"
-                    },
-                    "colorEffect": "test",
-                    "font": {
-                        "element": {
-                            "className": "ClassIcon"
-                        },
-                        "animationEffect": {
-                            "element": {
-                                "className": "ClassPulse"
-                            },
-                            "animationSubEffect": {
-                                "arrayAnimationSubEffectHolder": [
-                                    {
-                                        "information":{
-                                            "information": "c",
-                                            "link": "link0",
-                                            "opacity":1
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    }
-                }
-            },
-            {
-                "element": {
-                    "style": {
-                        "padding":"5px",
-                        "color":"white",
-                        "font-size": "40px"
-                    }
-                },
-                "routerLink": "education",
-                "colorEffect": {
-                    "element": {
-                        "className": "ClassNeon"
-                    },
-                    "colorEffect": "test",
-                    "font": {
-                        "element": {
-                            "className": "ClassIcon"
-                        },
-                        "animationEffect": {
-                            "element": {
-                                "className": "ClassPulse"
-                            },
-                            "animationSubEffect": {
-                                "arrayAnimationSubEffectHolder": [
-                                    {
-                                        "information":{
-                                            "information": "d",
-                                            "link": "link1",
-                                            "opacity":1
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    }
-                }
-            },
-            {
-                "element": {
-                    "style": {
-                        "padding":"5px",
-                        "color":"white",
-                        "font-size": "40px"
-                    }
-                },
-                "routerLink": "skills",
-                "colorEffect": {
-                    "element": {
-                        "className": "ClassNeon"
-                    },
-                    "colorEffect": "test",
-                    "font": {
-                        "element": {
-                            "className": "ClassIcon"
-                        },
-                        "animationEffect": {
-                            "element": {
-                                "className": "ClassShake"
-                            },
-                            "animationSubEffect": {
-                                "element": {
-                                    "className": "ClassHandIcon"
-                                },
-                                "arrayAnimationSubEffectHolder": [
-                                    {
-                                        "element": {
-                                            "className": "ClassHandIconOff",
-                                            "style":{
-                                            
-                                            }
-                                        },
-                                        "information":{
-                                            "information": "«",
-                                            "link": "link1",
-                                            "opacity":1
-                                        }
-                                    },
-                                    {
-                                        "element": {
-                                            "className": "ClassHandIconOn",
-                                            "style":{
-                                            
-                                            }
-                                        },
-                                        "information":{
-                                            "information": "¬",
-                                            "link": "link1",
-                                            "opacity":1
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    }
-                }
-            },
-            {
-                "element": {
-                    "style": {
-                        "padding":"5px",
-                        "color":"white",
-                        "font-size": "40px"
-                    }
-                },
-                "routerLink": "projects",
-                "colorEffect": {
-                    "element": {
-                        "className": "ClassNeon"
-                    },
-                    "colorEffect": "test",
-                    "font": {
-                        "element": {
-                            "className": "ClassIcon"
-                        },
-                        "animationEffect": {
-                            "animationSubEffect": {
-                                "element": {
-                                    "className": "ClassConsoleIcon"
-                                },
-                                "arrayAnimationSubEffectHolder": [
-                                    {
-                                        "element": {
-                                            "className": "ClassConsoleIconOff"
-                                        },
-                                        "information":{
-                                            "information": "i",
-                                            "link": "link1",
-                                            "opacity":1
-                                        }
-                                    },
-                                    {
-                                        "element": {
-                                            "className": "ClassConsoleIconOn"
-                                        },
-                                        "information":{
-                                            "information": "j",
-                                            "link": "link1",
-                                            "opacity":1
-                                        }
-                                    },
-                                    {
-                                        "element": {
-                                            "className": "ClassConsoleIconOn1"
-                                        },
-                                        "information":{
-                                            "information": "k",
-                                            "link": "link1",
-                                            "opacity":1
-                                        }
-                                    },
-                                    {
-                                        "element": {
-                                            "className": "ClassConsoleIconOn2"
-                                        },
-                                        "information":{
-                                            "information": "l",
-                                            "link": "link1",
-                                            "opacity":1
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    }
-                }
-            },
-            {
-                "element": {
-                    "style": {
-                        "padding":"5px",
-                        "color":"white",
-                        "font-size": "40px"
-                    }
-                },
-                "routerLink": "contact",
-                "colorEffect": {
-                    "element": {
-                        "className": "ClassNeon",
                         "style": {
                             "padding":"5px",
+                            "color":"white",
                             "font-size": "40px"
                         }
                     },
-                    "colorEffect": "test",
-                    "font": {
+                    "routerLink": "home",
+                    "colorEffect": {
                         "element": {
-                            "className": "ClassIcon"
+                            "className": "ClassNeon"
                         },
-                        "animationEffect": {
+                        "colorEffect": "test",
+                        "font": {
                             "element": {
-                                "className": "ClassShake"
+                                "className": "ClassIcon"
                             },
-                            "animationSubEffect": {
-                                "arrayAnimationSubEffectHolder": [
-                                    {
-                                        "information":{
-                                            "information": "6",
-                                            "link": "link1",
-                                            "opacity":1
+                            "animationEffect": {
+                                "element": {
+                                    "className": "ClassPulse"
+                                },
+                                "animationSubEffect": {
+                                    "arrayAnimationSubEffectHolder": [
+                                        {
+                                            "information":{
+                                                "information": "c",
+                                                "link": "link0",
+                                                "opacity":1
+                                            }
                                         }
-                                    }
-                                ]
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "element": {
+                        "style": {
+                            "padding":"5px",
+                            "color":"white",
+                            "font-size": "40px"
+                        }
+                    },
+                    "routerLink": "education",
+                    "colorEffect": {
+                        "element": {
+                            "className": "ClassNeon"
+                        },
+                        "colorEffect": "test",
+                        "font": {
+                            "element": {
+                                "className": "ClassIcon"
+                            },
+                            "animationEffect": {
+                                "element": {
+                                    "className": "ClassPulse"
+                                },
+                                "animationSubEffect": {
+                                    "arrayAnimationSubEffectHolder": [
+                                        {
+                                            "information":{
+                                                "information": "d",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "element": {
+                        "style": {
+                            "padding":"5px",
+                            "color":"white",
+                            "font-size": "40px"
+                        }
+                    },
+                    "routerLink": "skills",
+                    "colorEffect": {
+                        "element": {
+                            "className": "ClassNeon"
+                        },
+                        "colorEffect": "test",
+                        "font": {
+                            "element": {
+                                "className": "ClassIcon"
+                            },
+                            "animationEffect": {
+                                "element": {
+                                    "className": "ClassShake"
+                                },
+                                "animationSubEffect": {
+                                    "element": {
+                                        "className": "ClassHandIcon"
+                                    },
+                                    "arrayAnimationSubEffectHolder": [
+                                        {
+                                            "element": {
+                                                "className": "ClassHandIconOff",
+                                                "style":{
+                                                
+                                                }
+                                            },
+                                            "information":{
+                                                "information": "«",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        },
+                                        {
+                                            "element": {
+                                                "className": "ClassHandIconOn",
+                                                "style":{
+                                                
+                                                }
+                                            },
+                                            "information":{
+                                                "information": "¬",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "element": {
+                        "style": {
+                            "padding":"5px",
+                            "color":"white",
+                            "font-size": "40px"
+                        }
+                    },
+                    "routerLink": "projects",
+                    "colorEffect": {
+                        "element": {
+                            "className": "ClassNeon"
+                        },
+                        "colorEffect": "test",
+                        "font": {
+                            "element": {
+                                "className": "ClassIcon"
+                            },
+                            "animationEffect": {
+                                "animationSubEffect": {
+                                    "element": {
+                                        "className": "ClassConsoleIcon"
+                                    },
+                                    "arrayAnimationSubEffectHolder": [
+                                        {
+                                            "element": {
+                                                "className": "ClassConsoleIconOff"
+                                            },
+                                            "information":{
+                                                "information": "i",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        },
+                                        {
+                                            "element": {
+                                                "className": "ClassConsoleIconOn"
+                                            },
+                                            "information":{
+                                                "information": "j",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        },
+                                        {
+                                            "element": {
+                                                "className": "ClassConsoleIconOn1"
+                                            },
+                                            "information":{
+                                                "information": "k",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        },
+                                        {
+                                            "element": {
+                                                "className": "ClassConsoleIconOn2"
+                                            },
+                                            "information":{
+                                                "information": "l",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "element": {
+                        "style": {
+                            "padding":"5px",
+                            "color":"white",
+                            "font-size": "40px"
+                        }
+                    },
+                    "routerLink": "contact",
+                    "colorEffect": {
+                        "element": {
+                            "className": "ClassNeon",
+                            "style": {
+                                "padding":"5px",
+                                "font-size": "40px"
+                            }
+                        },
+                        "colorEffect": "test",
+                        "font": {
+                            "element": {
+                                "className": "ClassIcon"
+                            },
+                            "animationEffect": {
+                                "element": {
+                                    "className": "ClassShake"
+                                },
+                                "animationSubEffect": {
+                                    "arrayAnimationSubEffectHolder": [
+                                        {
+                                            "information":{
+                                                "information": "6",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        }
+                                    ]
+                                }
                             }
                         }
                     }
                 }
-            }
-        ]
+            ]
+        },
+        "rightHolder": {
+            "arrayItem": [
+                {
+                    "element": {
+                        "style": {
+                            "padding":"5px",
+                            "color":"white",
+                            "font-size": "40px"
+                        }
+                    },
+                    "routerLink": "contact",
+                    "colorEffect": {
+                        "element": {
+                            "className": "ClassNeon",
+                            "style": {
+                                "padding":"5px",
+                                "font-size": "40px"
+                            }
+                        },
+                        "colorEffect": "test",
+                        "font": {
+                            "element": {
+                                "className": "ClassIcon"
+                            },
+                            "animationEffect": {
+                                "element": {
+                                    "className": "ClassShake"
+                                },
+                                "animationSubEffect": {
+                                    "arrayAnimationSubEffectHolder": [
+                                        {
+                                            "information":{
+                                                "information": "6",
+                                                "link": "link1",
+                                                "opacity":1
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
     }
 }
