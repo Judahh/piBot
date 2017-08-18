@@ -17,8 +17,8 @@
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
-    "prestart": "sudo ./clone.sh",
-    "start": "tsc && concurrently \"npm run tsc:w\" \"sudo ./fullStart.sh\"",
+    "prestart": "./clone.sh",
+    "start": "tsc && concurrently \"npm run tsc:w\" \"./fullStart.sh\"",
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
     "tsc": "tsc",

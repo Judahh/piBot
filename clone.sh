@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo git clone https://github.com/Judahh/backApp.git backApp &
+git clone https://github.com/Judahh/backApp.git backApp &
 git clone https://github.com/Judahh/backApi.git backApi
 ret2=$?   # get value returned by b.sh
 wait %1   # Wait for a.sh to finish

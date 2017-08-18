@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo ./backAppStart.sh &
+./backAppStart.sh &
 ./backApiStart.sh
 ret2=$?   # get value returned by b.sh
 wait %1   # Wait for a.sh to finish
