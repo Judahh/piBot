@@ -1,7 +1,8 @@
 #!/bin/sh
 
-./backAppStart.sh &
-./backApiStart.sh
+./backApiStart.sh &
+./backAppStart.sh
+
 ret2=$?   # get value returned by b.sh
 wait %1   # Wait for a.sh to finish
 ret1=$?   # get value returned by a.sh
