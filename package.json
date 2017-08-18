@@ -22,11 +22,11 @@
   "angular-cli": {},
   "scripts": {
     "prestart": "./clone.sh && npm install ntypescript -g",
-    "start": "./fullStart.sh",
+    "start": "ntsc && concurrently \"npm run ntsc:w\" \"./fullStart.sh\"",
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
-    "tsc": "tsc",
-    "tsc:w": "tsc -w",
+    "ntsc": "ntsc",
+    "ntsc:w": "ntsc -w",
     "clean": "shx rm -Rf build/",
     "gulp": "gulp"
   },
