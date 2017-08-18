@@ -263,7 +263,7 @@
                             "font-size": "40px"
                         }
                     },
-                    "routerLink": "contact",
+                    "routerLink": "languages",
                     "colorEffect": {
                         "element": {
                             "className": "ClassNeon",
@@ -278,14 +278,11 @@
                                 "className": "ClassIcon"
                             },
                             "animationEffect": {
-                                "element": {
-                                    "className": "ClassShake"
-                                },
                                 "animationSubEffect": {
                                     "arrayAnimationSubEffectHolder": [
                                         {
                                             "information":{
-                                                "information": "6",
+                                                "information": "µ",
                                                 "link": "link1",
                                                 "opacity":1
                                             }
