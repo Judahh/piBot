@@ -21,8 +21,8 @@
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
-    "prestart": "./clone.sh && npm install ntypescript -g",
-    "start": "ntsc && concurrently \"./fullStart.sh\"",
+    "prestart": "./clone.sh",
+    "start": "./fullStart.sh && concurrently \"ntsc -w\"",
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",
     "ntsc": "ntsc",
