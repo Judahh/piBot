@@ -1,7 +1,7 @@
 #!/bin/sh
 
 sudo git clone https://github.com/Judahh/backApp.git backApp &
-https://github.com/Judahh/backApi.git backApi
+git clone https://github.com/Judahh/backApi.git backApi
 ret2=$?   # get value returned by b.sh
 wait %1   # Wait for a.sh to finish
 ret1=$?   # get value returned by a.sh
