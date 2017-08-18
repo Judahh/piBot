@@ -4,6 +4,10 @@
   "author": "Judah <judahholanda7@gmail.com>",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "8.1.2",
+    "npm": "5.3.0"
+  },
   "description": "Judahh APP project",
   "keywords": [
     "judahh",
@@ -27,6 +31,7 @@
     "gulp": "gulp"
   },
   "dependencies": {
+    "ntypescript": "^1.201706190042.1",
     "concurrently": "^3.5.0"
   },
   "devDependencies": {}
