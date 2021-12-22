@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "ntypescript": "^1.201706190042.1",
-    "concurrently": "^3.5.0"
+    "concurrently": "^3.6.1"
   },
   "devDependencies": {}
 }
